@@ -1,3 +1,4 @@
+layout_spectrum: 0.4625409198924899
 typography_spectrum: 0.6540765820536762
 color:
   brandStrength: 0.9731630119495094
@@ -10,6 +11,4 @@ color:
     - '#CD5334'
     - '#EDB88B'
     - '#FAD8D6'
-layout_spectrum: 0.4625409198924899
 name: Reimagineer
-title: Lead a living legacy
